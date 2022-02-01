@@ -1,27 +1,28 @@
 {
-  "name": "john",
-  "version": "1.0.0",
-  "description": "## CICD Workflow Netlify/Firebase",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jtrampe77/netlify-deploy-START.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jtrampe77/netlify-deploy-START/issues"
-  },
-  "homepage": "https://github.com/jtrampe77/netlify-deploy-START#readme",
-  "dependencies": {
-    "firebase": "^9.6.5",
-    "parcel": "^2.2.1"
-  },
-  "devDependencies": {
-    "@parcel/packager-raw-url": "^2.2.1",
-    "@parcel/transformer-webmanifest": "^2.2.1"
-  }
+    "name": "john",
+    "version": "1.0.0",
+    "description": "## CICD Workflow Netlify/Firebase",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npm run build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jtrampe77/netlify-deploy-START.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jtrampe77/netlify-deploy-START/issues"
+    },
+    "homepage": "https://github.com/jtrampe77/netlify-deploy-START#readme",
+    "dependencies": {
+        "firebase": "^9.6.5",
+        "parcel": "^2.2.1"
+    },
+    "devDependencies": {
+        "@parcel/packager-raw-url": "^2.2.1",
+        "@parcel/transformer-webmanifest": "^2.2.1"
+    }
 }
