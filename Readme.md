@@ -1,3 +1,22 @@
+## Deployment To Netlify
+
+## CICD Workflow
+Netlify/Firebase
+
+```NextJs```
+- SSG - Static Site
+- ISR - Incremental Static Regeneration
+- SSR - Server Side Rendered
+
+```ReactJs```
+-SPA/CSR - Client side rendered - Single Page App React single html - Create React App
+
+
+
+
+
+
+
 # Crudy Read JavaScript
 How to read data from the real time database and render the vacations in the browser. Your template should display the image the city and present the user with options to remove or edit the vacation rental property.
 
